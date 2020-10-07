@@ -2,7 +2,7 @@ body
 {
     color: #333;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Courier";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -19,6 +19,16 @@ body
     padding: 0.5em;
 }
 
+<<<<<<< HEAD
+=======
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+>>>>>>> master
 #container
 {
     width: 70%;
